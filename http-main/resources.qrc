@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/sunny.png</file>
+        <file>img/rainy.png</file>
+        <file>img/cloudy.png</file>
+        <file>img/fewclouds.png</file>
+        <file>img/background.jpg</file>
+        <file>img/iller.json</file>
+    </qresource>
+</RCC>
